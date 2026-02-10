@@ -36,7 +36,7 @@ I enjoy building clean, scalable backend systems and learning how real-world sof
 * MySQL integration using Hibernate/JPA
 * Asynchronous processing for better performance
 
-🔗 [https://github.com/parth3git/smart-courier-MS](https://github.com/parth3git/smart-courier-MS)
+🔗 [https://github.com/parth3git/smart-courier-MS](https://github.com/parth3git/Smart-Courier-Management.git)
 
 ---
 
