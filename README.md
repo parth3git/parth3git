@@ -18,8 +18,11 @@ I enjoy building clean, scalable backend systems and learning how real-world sof
 ## 🛠️ Tech Stack
 
 **Languages:** Java, SQL, HTML/CSS
+
 **Backend:** Spring Boot, REST APIs, JDBC, Hibernate/JPA
+
 **Databases:** MySQL, MongoDB
+
 **Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code
 
 ---
