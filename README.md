@@ -1,6 +1,6 @@
 # Hi, I'm Parth 👋
 
-🎓 **BCA Graduate** | 💻 **Backend Developer (Java & Spring Boot)** | 📍 India
+🎓 **BCA Graduate** | 💻 **Backend Developer (Java & Spring Boot)** | 📍 Surat, India
 
 I enjoy building clean, scalable backend systems and learning how real-world software works under the hood.
 
